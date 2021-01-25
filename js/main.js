@@ -1,5 +1,5 @@
 function openBanho(){
-    window.location="http://animalcamp.com.br/banho_tosa.html";
+    window.location="https://demo.soucriador.com/animalcamp/banho_tosa.html";
  }
 
 $(document).ready(function(){
